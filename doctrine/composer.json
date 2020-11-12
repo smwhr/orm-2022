@@ -1,0 +1,12 @@
+{
+
+  "autoload":{
+    "psr-4":{
+      "Model\\": "models",
+      "Controller\\": "controllers"
+    }
+  },
+  "require": {
+    "doctrine/orm": "^2.7"
+  }
+}

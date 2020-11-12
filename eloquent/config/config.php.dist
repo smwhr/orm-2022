@@ -1,0 +1,10 @@
+<?php 
+return [
+  "driver" => "mysql",
+  "host"   => "troisyaourts.dev",
+  "database" => "supinternet_movies",
+  "username"   => "publicitr",
+  "password" => "",
+  "charset" => "utf8",
+  "collation" => "utf8_general_ci"
+];

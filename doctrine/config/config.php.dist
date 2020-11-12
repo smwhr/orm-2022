@@ -1,0 +1,8 @@
+<?php 
+return [
+  "driver" => "pdo_mysql",
+  "host"   => "troisyaourts.dev",
+  "dbname" => "supinternet_movies",
+  "user"   => "publicitr",
+  "password" => ""
+];
